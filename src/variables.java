@@ -6,6 +6,6 @@ public class variables {
         int num2 = 20;
         //System.out.println(word + " " + num + 5 + " Art");
         //System.out.println(num * 2 / 14 + num2);
-        System.out.println(11 + (5 * 10 / 25));
+        System.out.println(12 + (5 * 10 / 25));
     }
 }
